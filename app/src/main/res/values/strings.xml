@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Scrolling Text</string>
+    <string name="article_title">Article Title</string>
+    <string name="article_subtitle">Article Subtitle</string>
+    <string name="article_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam sapien quam, placerat id massa non, gravida porta est. Sed lacinia sem leo, nec vulputate felis aliquam nec. Fusce aliquet nulla sed ligula porta, ac consectetur augue pellentesque. Quisque ut eros accumsan, luctus sem at, lobortis lorem. Sed id volutpat nisl. Integer ornare nulla ut aliquet vestibulum. Cras vestibulum odio quis erat accumsan condimentum. Etiam vitae dui molestie, porta est feugiat, accumsan lorem. Duis commodo elementum libero nec euismod.
+    \n\n
+        www.google.com
+    \n\n
+        Aenean rhoncus ligula mauris, scelerisque laoreet ligula vulputate non. Nullam porttitor nec arcu ut vehicula. Sed fringilla nisi tellus, ac feugiat libero sollicitudin ut. Donec egestas sapien quis rutrum cursus. Maecenas interdum auctor ullamcorper. Aenean ut nisl et nunc dignissim vulputate vel in augue. Pellentesque lectus ex, viverra vitae magna nec, cursus pretium libero. Phasellus ultrices, eros id lobortis imperdiet, sapien nisl molestie magna, at laoreet odio dolor vitae turpis. Etiam vel sem ut enim pulvinar scelerisque vel ac lectus. Nunc ullamcorper felis molestie, congue neque vitae, vulputate justo. Cras placerat sed lectus at efficitur. Curabitur quis pulvinar est, eget lobortis nisl. Vivamus porta nisi in mi ultricies, et efficitur diam hendrerit.
+
+    </string>
 </resources>
